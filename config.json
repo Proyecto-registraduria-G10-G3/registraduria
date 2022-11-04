@@ -1,0 +1,6 @@
+{
+  "url-backend": "127.0.0.1",
+  "port": 8081,
+  "db-connection":  "mongodb+srv://equipo3:P4$$w0rd@cluster0.wijocek.mongodb.net/registraduria?retryWrites=true&w=majority",
+  "db-name": "registraduria"
+}
